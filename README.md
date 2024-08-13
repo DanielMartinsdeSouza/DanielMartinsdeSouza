@@ -1,4 +1,7 @@
+
 ### Olá pessoal, me chamo Daniel Martins De Souza!😄
+
+### Dev Front-End 🖤
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-souza-02aba0266)
 ![Blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -16,3 +19,9 @@
 ![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ![Daniel Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMartinsDeSouza&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+## Entre em contado comigo 
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danielmartins1928@outlook.com)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_souzsa/)
