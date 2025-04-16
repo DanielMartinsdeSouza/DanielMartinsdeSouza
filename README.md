@@ -1,8 +1,32 @@
 
-### Olá sejam bom-vindos, Me chamo Daniel Martins De Souza!😄
+### Olá sejam bem-vindos, Me chamo Daniel !😄
 
-### Dev Front End 🖤
+### Desnvolvedor back-end 🖤
+### Sou studante de anális e desenvolvimento de sistmas , atualmeto estou focado em ***Java para back end***, mas tambḿ tenho expriência em JavaScript
 
+## O que eu já sei ?
+## Tecnologias e fremeworks
+- **linguagen de marcação e estelização:** HTML5 E CSS3
+- **linguagens:** JavaScript
+- **Banco de Dados:** MySql
+- **fremeworks:** React, Node.js
+- **versionamento:** Git
+- **conteiners:** Docker
+- **Sistema operacional:** Windows e Linux (Ubunto)
+## O que estou estudando atualmente ?
+- **Linguagem de programação JAVA**
+- **Desenvolvimento de APIs REST com Spring Boot**
+- **Boas práticas em arquitetura de software (MVC, camadas, DTOs)**
+- **Segurança em APIs (Autenticação com JWT, Spring Security)**
+- **SpringCORE, SpringData, SpringMVC, SpringTest**
+- **Documentação com Swagger**
+## Me chama aí ?
+## Contato
+- **Email:** danielmartins1928@outlook.com **ou** danielmartinsdesouza20@gmail.com  
+- **LinkedIn:** [  https://www.linkedin.com/in/daniel-souza-02aba0266/ ]
+- **Instagram:** [@daniel_souzsa]https://www.instagram.com/daniel_souzsa/)
+
+  
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-souza-02aba0266)
 ![Blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Blog](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
