@@ -1,7 +1,7 @@
 
 ### Olá sejam bem-vindos, Me chamo Daniel !😄
 
-### Desnvolvedor back-end 🖤
+### Desenvolvedor back-end 🖤
 ### Sou studante de anális e desenvolvimento de sistmas , atualmeto estou focado em ***Java para back end***, mas tambḿ tenho expriência em JavaScript
 
 ## O que eu já sei ?
