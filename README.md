@@ -1,25 +1,27 @@
 
 ### Olá sejam bem-vindos, Me chamo Daniel !😄
 
-### Desenvolvedor back-end 🖤
-### Sou studante de anális e desenvolvimento de sistmas , atualmeto estou focado em ***Java para back end***, mas tambḿ tenho expriência em JavaScript
+### Desenvolvedor de software 🖤
+### Sou studante de anális e desenvolvimento de sistmas , atualmeto estou focado em ***Javascript***, mas tambḿ tenho expriência em python
 
 ## O que eu já sei ?
 ## Tecnologias e fremeworks
 - **linguagen de marcação e estelização:** HTML5 E CSS3
 - **linguagens:** JavaScript
 - **Banco de Dados:** MySql
-- **fremeworks:** React, Node.js
+- **fremeworks:** React, Node.js, Boostrap
+- **Design:**UI/UX , Figma 
 - **versionamento:** Git
 - **conteiners:** Docker
 - **Sistema operacional:** Windows e Linux (Ubunto)
 ## O que estou estudando atualmente ?
-- **Linguagem de programação JAVA**
-- **Desenvolvimento de APIs REST com Spring Boot**
+- **Linguagem de programação:** typscript, Java
+- **Fremworks:** Angular
+- **Banco de dados:** Postgress, MongoDB
+- **Desenvolvimento de APIs REST**
 - **Boas práticas em arquitetura de software (MVC, camadas, DTOs)**
 - **Segurança em APIs (Autenticação com JWT, Spring Security)**
-- **SpringCORE, SpringData, SpringMVC, SpringTest**
-- **Documentação com Swagger**
+- **Documentação com JSON**
 ## Me chama aí ?
 ## Contato
 - **Email:** danielmartins1928@outlook.com **ou** danielmartinsdesouza20@gmail.com  
