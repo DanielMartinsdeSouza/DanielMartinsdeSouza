@@ -9,7 +9,7 @@
 - **linguagen de marcação e estelização:** HTML5 E CSS3
 - **linguagens:** JavaScript
 - **Banco de Dados:** MySql
-- **fremeworks:** React, Node.js, Boostrap
+- **fremeworks:** React, Node.js, Bootstrap
 - **Design:**UI/UX , Figma 
 - **versionamento:** Git
 - **conteiners:** Docker
