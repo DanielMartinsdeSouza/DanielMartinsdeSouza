@@ -10,7 +10,7 @@
 - **linguagens:** JavaScript
 - **Banco de Dados:** MySql
 - **fremeworks:** React, Node.js, Bootstrap
-- **Design:**UI/UX , Figma 
+- **Design** UI/UX , Figma 
 - **versionamento:** Git
 - **conteiners:** Docker
 - **Sistema operacional:** Windows e Linux (Ubunto)
